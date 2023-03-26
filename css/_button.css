@@ -1,0 +1,35 @@
+.white-button{
+    background-color: #ffffff;
+    color:#212353;
+    box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+    font-size: 16px;
+    font-weight: 900;
+}
+.button,
+button{
+    border-radius: 50px;
+    padding: 17px 27px;
+}
+
+.icon-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+}
+
+.icon-button span{
+    padding-right: 1rem;
+}
+
+.purple-button{
+    background-color: #9C69E2;
+    color: #fff;
+}
+
+.pink-button{
+    background-color: #F063B8;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 900;
+}
